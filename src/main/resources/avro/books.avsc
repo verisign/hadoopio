@@ -1,0 +1,19 @@
+{
+  "type" : "record",
+  "name" : "Book",
+  "namespace" : "com.miguno.avro",
+  "fields" : [ {
+    "name" : "title",
+    "type" : "string",
+    "doc"  : "The book's title"
+  }, {
+    "name" : "author",
+    "type" : "string",
+    "doc"  : "The primary author of the book"
+  }, {
+    "name" : "isbn",
+    "type" : "string",
+    "doc"  : "ISBN-13 of the book"
+  } ],
+  "doc" : "A basic schema for storing a book"
+}
