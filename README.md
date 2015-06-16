@@ -235,7 +235,7 @@ See [LICENSE](LICENSE) for licensing information.
 
 Related projects:
 
-* [hio](https://github.vrsn.com/vsrtc/hio) -- command line utilities to interact with Hadoop HDFS.
+* [hio](https://github.com/verisign/hio) -- command line utilities to interact with Hadoop HDFS.
 
 Hadoop API
 
